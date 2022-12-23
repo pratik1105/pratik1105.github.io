@@ -35,7 +35,7 @@ author:
 #-------------------------------
 # Links Section Settings
 links:
-  enable: true
+  enable: false
   links__title: "Useful links"
 
 links__item:
