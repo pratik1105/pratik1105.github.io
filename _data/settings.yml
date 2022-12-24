@@ -28,7 +28,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: Pratik Mishra
-  author__avatar: "/images/ProfilePhoto-Circle.jpg"
+  author__avatar: "/images/ProfilePhoto-Circle.JPG"
   author__bio: I'm a Backend Engineer working on building Google's premium experience with <a href="https://www.googleone.com/" style="color:#AA336A;">Google One</a> in Mountain View, California.
 
 
@@ -78,7 +78,7 @@ hero:
   hero__description: I fill my life with Tech, Books, Sports, Movies, TV Shows and Friends and Family.   
   hero__button__text: Read more about my life
   hero__button__link: "/about/"
-  hero__image: "/images/ProfilePhoto.jpg"
+  hero__image: "/images/ProfilePhoto.JPG"
 
 
 #-------------------------------
