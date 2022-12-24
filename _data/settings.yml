@@ -27,9 +27,9 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: Victoria Nayda
-  author__avatar: "/images/01-1.jpg"
-  author__bio: I'm a product designer who's passionate about bringing projects to life! I love learning new things and jumping headfirst into solving problems.
+  author__name: Pratik Mishra
+  author__avatar: "/images/ProfilePhoto-Circle.jpg"
+  author__bio: I'm a Backend Engineer working on building Google's premium experience with <a href="https://www.googleone.com/" style="color:#AA336A;">Google One</a> in Mountain View, California.
 
 
 #-------------------------------
@@ -73,12 +73,12 @@ links__item:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hi, I'm <span>Victoria Nayda</span>. # Wrap text in a <span></span> tag to highlight and underline text.
-  hero__job: Designer, Illustrator
-  hero__description: I spend a lot of time creating cool things
-  hero__button__text: Read about my past
+  hero__title: Hi, I'm <span>Pratik Mishra</span>. # Wrap text in a <span></span> tag to highlight and underline text.
+  hero__job: Software Engineer @ Google
+  hero__description: I fill my life with Tech, Books, Sports, Movies, TV Shows and Friends and Family.   
+  hero__button__text: Read more about my life
   hero__button__link: "/about/"
-  hero__image: "/images/01.jpg"
+  hero__image: "/images/ProfilePhoto.jpg"
 
 
 #-------------------------------
@@ -115,12 +115,9 @@ mailchimp:
 #-------------------------------
 # Social Icons Settings
 social:
-- {icon: "ion-logo-twitter", name: "Twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-github", name: "Github", link: "https://github.com"}
-- {icon: "ion-logo-youtube", name: "Youtube", link: "https://youtube.com"}
-- {icon: "ion-logo-pinterest", name: "Pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-codepen", name: "Codepen", link: "https://codepen.io"}
-- {icon: "ion-logo-vimeo", name: "Vimeo", link: "https://vimeo.com"}
+- {icon: "ion-logo-twitter", name: "Twitter", link: "https://twitter.com/pratikmishra001"}
+- {icon: "ion-logo-github", name: "Github", link: "https://github.com/pratik1105"}
+- {icon: "ion-logo-instagram", name: "Instagram", link: "https://instagram.com/pratikmishra001"}
 
 # Example of adding a new link to the author section and footer: - {icon: "ion-logo-dribbble", name: "Dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
