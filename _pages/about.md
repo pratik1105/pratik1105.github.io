@@ -28,7 +28,7 @@ In December of 2021, I packed my bags and moved out to California to work at <a 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/CaliFriends1.jpg">
+    <img src="/images/CaliFriends1.JPG">
     <img src="/images/CaliFriends3.jpg">
     <img src="/images/CaliFriends4.jpg">
   </div>
