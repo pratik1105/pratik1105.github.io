@@ -29,7 +29,7 @@ menu__settings:
 author:
   author__name: Pratik Mishra
   author__avatar: "/images/ProfilePhoto-Circle.JPG"
-  author__bio: I'm a Backend Engineer working on building Google's premium experience with <a href="https://www.googleone.com/" style="color:#AA336A;">Google One</a> in Mountain View, California.
+  author__bio: Just another software engineer who's curious about stuff, binges a bit too much of Netflix and enjoys spending time with friends and family.
 
 
 #-------------------------------
@@ -116,8 +116,10 @@ mailchimp:
 # Social Icons Settings
 social:
 - {icon: "ion-logo-twitter", name: "Twitter", link: "https://twitter.com/pratikmishra001"}
-- {icon: "ion-logo-github", name: "Github", link: "https://github.com/pratik1105"}
 - {icon: "ion-logo-instagram", name: "Instagram", link: "https://instagram.com/pratikmishra001"}
+- {icon: "ion-logo-linkedin", name: "LinkedIn", link: "https://linkedin.com/in/pratik1105"}
+- {icon: "ion-logo-github", name: "Github", link: "https://github.com/pratik1105"}
+
 
 # Example of adding a new link to the author section and footer: - {icon: "ion-logo-dribbble", name: "Dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
