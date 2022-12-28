@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Could someone hit reset please ?
+title: Someone Hit Reset Please ?
+description: Time machine for sale, anyone ?
 date: 2019-02-09 18:05:55 +0300
-image: '/images/hit-reset.jpg'
+image: '/images/cozy.jpeg'
 tags: [poems]
 ---
 
