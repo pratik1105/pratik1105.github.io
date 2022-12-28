@@ -20,8 +20,8 @@ menu__settings:
       submenu:
       - url: "/tags/?tag=poems"
         title: "Poems"
-      - url: "/you-must-be-the-change-you-wish-to-see-in-the-world/"
-        title: "Workflow"
+      - url: "/tags/?tag=posts"
+        title: "Blog Posts"
 
 
 #-------------------------------
