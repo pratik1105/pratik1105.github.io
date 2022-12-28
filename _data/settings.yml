@@ -16,10 +16,10 @@ menu__settings:
       url: "/contact/"
     - title: "Elements"
       url: "/elements/"
-    - title: "Pages"
+    - title: "Writings"
       submenu:
-      - url: "/if-you-cannot-do-great-things-do-small-things-in-a-great-way/"
-        title: "Lifestyle"
+      - url: "/tags/?tag=poems"
+        title: "Poems"
       - url: "/you-must-be-the-change-you-wish-to-see-in-the-world/"
         title: "Workflow"
 
@@ -84,7 +84,7 @@ hero:
 #-------------------------------
 # Gallery Footer Section
 gallery:
-  enable: true
+  enable: false
   gallery__title: Gallery
   gallery__columns: "3" # You can change the number of gallery columns
   gallery__images:
