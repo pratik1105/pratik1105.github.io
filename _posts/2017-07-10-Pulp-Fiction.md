@@ -5,6 +5,7 @@ description: If my answers frighten you, then you should cease asking scary ques
 date: 2017-07-10 18:05:55 +0300
 image: '/images/pulpfiction.jpeg'
 tags: [poems]
+featured: true
 ---
 
 Follow me to the top of the mountain  

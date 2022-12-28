@@ -5,6 +5,7 @@ description: You are not your audience.
 date: 2020-10-17 18:05:55 +0300
 image: '/images/google.jpeg'
 tags: [posts, tech, google]
+featured: true
 ---
 
 Building at [Google](https://google.com) often means building for scale is non-negotiable. Lots of people (including me when I joined a little over a year ago) think that implies a bunch of technical difficulties. However, I have realized that the tech is actually easy. It's people that are hard.
