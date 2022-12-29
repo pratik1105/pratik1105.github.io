@@ -5,7 +5,6 @@ description: Tread carefully.
 date: 2018-01-23 18:05:55 +0300
 image: '/images/ropewalk.jpeg'
 tags: [poems]
-featured: true
 ---
 
 Fine lines that divide the right and the wrong.  
