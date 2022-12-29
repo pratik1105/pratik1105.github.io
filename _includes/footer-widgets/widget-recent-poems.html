@@ -1,9 +1,9 @@
 <div class="col col-4 col-d-6 col-t-12">
   <div class="widget widget-recent">
     <div class="widget__head">
-      <h3 class="widget__title">Recent Blog Posts</h3>
+      <h3 class="widget__title">Recent Poems</h3>
     </div>
-    {% for post in site.tags.posts limit:2 %}
+    {% for post in site.tags.poems limit:2 %}
     <div class="recent-posts">
       {% if post.image %}
       <a class="recent-posts__image" href="{{ post.url }}">
