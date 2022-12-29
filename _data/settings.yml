@@ -105,9 +105,9 @@ gallery:
 #-------------------------------
 # Newsletter
 mailchimp:
-  enable: true
+  enable: false
   mailchimp__title: Subscribe to new posts # Add your Title
-  mailchimp__text: Subscribe to our newsletter and we’ll send you the emails of latest posts. # Add your description.
+  mailchimp__text: Subscribe to my newsletter and I’ll send you the emails of latest posts. # Add your description.
   mailchimp__identifier: "frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
   mailchimp__button__text: Subscribe
 
