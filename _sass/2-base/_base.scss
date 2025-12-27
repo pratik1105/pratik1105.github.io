@@ -83,20 +83,11 @@ blockquote {
   position: relative;
   margin-top: 30px;
   padding: 25px 25px 15px 60px;
-  font-size: 30px;
+  font-size: 18px;
   line-height: 45px;
-  font-weight: 700;
   font-style: normal;
   color: var(--heading-font-color);
 
-  &::before {
-    content: '\201C';
-    position: absolute;
-    top: 0.35em;
-    left: 0.05em;
-    font-size: 3.5em;
-    color: var(--brand-color);
-  }
 
   p {
     margin-bottom: 0;
